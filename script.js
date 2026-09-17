@@ -11,3 +11,4 @@ sayHello('John', sayBye);
 
 
 const admin = 'Rahul';
+const profile = 'Graphic Designer';
