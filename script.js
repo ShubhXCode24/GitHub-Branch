@@ -8,6 +8,3 @@ function sayBye() {
 }
 
 sayHello('John', sayBye);
-
-
-console.log('This is a new feature');
