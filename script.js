@@ -8,3 +8,6 @@ function sayBye() {
 }
 
 sayHello('John', sayBye);
+
+
+const admin = 'Shubham';
